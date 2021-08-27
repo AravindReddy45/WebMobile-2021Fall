@@ -1,2 +1,6 @@
 # WebMobile-2021Fall
-Repo for Web and Mobile Programming - Fall 2021 Section
+Web and Mobile Programming - Fall 2021 Section
+
+Instructor: Yeruva, Vijaya Kumari 
+
+Teaching Assistant: Ahmed Hamdan and  Muhammad Zubair
